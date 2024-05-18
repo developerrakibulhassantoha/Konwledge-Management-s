@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "74060e08333dc89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb27f982c9d0bfbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4877ff9c5e6b2da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment/Assignment_Two/String.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fc6b6d7636731e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e916c527a233af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296d36abb3de87c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "282be7a113e5ac5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Ans",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "241aba18b4a83fb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "fae4bb50ad9283b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4adef834b1e478cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66592ea358d84445",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assignment/Assignment_Two/String.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fe324b9f5d7b954",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assignment/Assignment_Two/String.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f01c111a7df7f6e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3d2fb64ca348685",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assignment/Assignment_Two/String.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4877ff9c5e6b2da2",
+  "lastOpenFiles": [
+    "Assignment/Assignment_Two/OOP.md",
+    "Assignment/Assignment_Two/String.md",
+    "PHP/Module_06/Class_01/3. Variable Naming Conventions.md",
+    "Assignment/Assignment_Two",
+    "PHP/Module_06/Class_01/2. Write your First PHP Code & Run.md",
+    "PHP/Module_06/Class_01/1. Regular PHP MySQL Setup.md",
+    "CodeMama/module_09/CodeMama Problem Solving..md",
+    "CodeMama/module_08/Untitled",
+    "CodeMama/module_08/CodeMama Problem Solving.md",
+    "CodeMama/module_09",
+    "PHP/Module_07",
+    "PHP/Module_08",
+    "PHP/Module_06",
+    "CodeMama.md",
+    "CodeMama/module_08",
+    "CodeMama",
+    "Ostat Class/Module/Module-04 Object Oriented/Class 02/5. Inheritance/LDRHT.md",
+    "Ostat Class/Module/Module-04 Object Oriented/Class 02/4. Static Keyword/LDRHT.md",
+    "Ostat Class/Module/Module-04 Object Oriented/Class 02/3. Constructor/LDRHT.md",
+    "Ostat Class/Module/Module-04 Object Oriented/Class 02/2. Class/LDRHT.md",
+    "Ostat Class/Module/Module-04 Object Oriented/Class 02/1. JavaScript Object/LDRHT.md",
+    "Ostat Class/Module/Module-04 Object Oriented/Class 02/0. our paractic Environment/LDRHT.md",
+    "Ostad Quiz Question and Answers/মডিউল 04.md",
+    "Ostad Quiz Question and Answers/মডিউল 02.md",
+    "Ostad Quiz Question and Answers/মডিউল 01.md",
+    "PHP/Module_06/Class_01/4. PHP Constants.md",
+    "PHP/Module_06/Class_01/6. PHP Sprintf().md",
+    "PHP/Module_06/Class_01/5. PHP printf().md",
+    "JavaScript/18. For in loop over Array.md",
+    "PHP/Module_06/Class_01",
+    "PHP",
+    "JavaScript/12. Function.md",
+    "JavaScript/13. Function Peramiter.md",
+    "JavaScript/14. Function Return.md",
+    "Assignment/Assignment_One/calculator/index.html.md",
+    "Assignment/Assignment_One/calculator/main.js.md",
+    "Ostat Class/Module/Untitled/Untitled.canvas",
+    "Untitled.canvas",
+    "JavaScript/Untitled.canvas"
+  ]
+}

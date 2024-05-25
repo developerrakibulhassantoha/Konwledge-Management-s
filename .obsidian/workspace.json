@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fb27f982c9d0bfbf",
+        "id": "7f95bf1adeb7ab3c",
         "type": "tabs",
         "children": [
           {
-            "id": "4877ff9c5e6b2da2",
+            "id": "56b51e179927b8e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeMama/Module_11/Substring Occurrences Counting.md",
-                "mode": "preview",
+                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae4bb50ad9283b6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeMama/Module_11/Substring Occurrences Counting.md",
+                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeMama/Module_11/Substring Occurrences Counting.md",
+                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeMama/Module_11/Substring Occurrences Counting.md"
+                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md"
               }
             }
           }
@@ -146,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4877ff9c5e6b2da2",
+  "active": "56b51e179927b8e8",
   "lastOpenFiles": [
-    "CodeMama/Module_11/String Rotation.md",
+    "PHP/Module_11/Resourse/PDF Resourse/SESSION.md",
+    "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
+    "PHP/Module_11/Resourse/PDF Resourse/What is json_encode.md",
+    "PHP/Module_11/Resourse/Code file of class/Code.md",
+    "PHP/Module_11/Resourse/PDF Resourse",
+    "postman.txt",
+    "part9.php",
+    "part8.php",
+    "part7.php",
+    "part6.php",
+    "part5.php",
+    "part4 1.php",
+    "part3.php",
+    "part2.php",
+    "PHP/Module_11/Class_02/Main Topic.md",
+    "PHP/Module_11/Resoure.md",
+    "PHP/Module_11/Class_02/Cookies Store.md",
+    "PHP/Module_11/Class_02/Session Store.md",
+    "PHP/Module_11/Class_02/$_SERVER REQUEST_METHOD.md",
+    "PHP/Module_11/Class_02/file_get_content().md",
+    "PHP/Module_11/Class_02/Associative array to json object encode.md",
+    "PHP/Module_11/Class_02/Associative array to json array encode.md",
     "CodeMama/Module_11/Substring Occurrences Counting.md",
+    "CodeMama/Module_11/String Rotation.md",
     "Assignment/Assignment_One/Assignment/bank_app/main.js.md",
-    "CodeMama/Module_11",
-    "CodeMama/Module_10_Exam",
-    "Assignment/Assignment_One/Assignment",
     "Assignment/Assignment_Two/Live Test/Question -01.md",
-    "Assignment/Assignment_Two/Assignment",
     "Assignment/Assignment_Two/Live Test/Question-02.md",
     "Assignment/Assignment_Two/Assignment/OOP.md",
-    "Assignment/Assignment_Two/Live Test",
     "Assignment/Assignment_Two/Assignment/String.md",
     "PHP/Module_06/Class_01/3. Variable Naming Conventions.md",
-    "Assignment/Assignment_Two",
     "PHP/Module_06/Class_01/2. Write your First PHP Code & Run.md",
     "PHP/Module_06/Class_01/1. Regular PHP MySQL Setup.md",
     "CodeMama/module_09/CodeMama Problem Solving..md",
-    "CodeMama/module_08/Untitled",
     "CodeMama/module_08/CodeMama Problem Solving.md",
-    "CodeMama/module_09",
-    "PHP/Module_07",
-    "PHP/Module_08",
     "CodeMama.md",
     "Ostat Class/Module/Module-04 Object Oriented/Class 02/5. Inheritance/LDRHT.md",
-    "Ostat Class/Module/Module-04 Object Oriented/Class 02/4. Static Keyword/LDRHT.md",
-    "Ostat Class/Module/Module-04 Object Oriented/Class 02/3. Constructor/LDRHT.md",
-    "Ostat Class/Module/Module-04 Object Oriented/Class 02/2. Class/LDRHT.md",
-    "Ostat Class/Module/Module-04 Object Oriented/Class 02/1. JavaScript Object/LDRHT.md",
-    "Ostat Class/Module/Module-04 Object Oriented/Class 02/0. our paractic Environment/LDRHT.md",
-    "Ostad Quiz Question and Answers/মডিউল 04.md",
-    "Ostad Quiz Question and Answers/মডিউল 02.md",
-    "Ostad Quiz Question and Answers/মডিউল 01.md",
-    "PHP/Module_06/Class_01/4. PHP Constants.md",
-    "PHP/Module_06/Class_01/6. PHP Sprintf().md",
-    "PHP/Module_06/Class_01/5. PHP printf().md",
-    "JavaScript/18. For in loop over Array.md",
     "Ostat Class/Module/Untitled/Untitled.canvas",
     "Untitled.canvas",
     "JavaScript/Untitled.canvas"

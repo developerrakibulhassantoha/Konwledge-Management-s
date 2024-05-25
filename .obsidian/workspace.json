@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
+                "file": "PHP/Module_11/Class_02/Cookies Store.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "fae4bb50ad9283b6",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
+                "file": "PHP/Module_11/Class_02/Cookies Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
+                "file": "PHP/Module_11/Class_02/Cookies Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md"
+                "file": "PHP/Module_11/Class_02/Cookies Store.md"
               }
             }
           }
@@ -149,10 +148,14 @@
   },
   "active": "56b51e179927b8e8",
   "lastOpenFiles": [
-    "PHP/Module_11/Resourse/PDF Resourse/SESSION.md",
-    "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
-    "PHP/Module_11/Resourse/PDF Resourse/What is json_encode.md",
     "PHP/Module_11/Resourse/Code file of class/Code.md",
+    "PHP/Module_11/Class_02/Cookies Store.md",
+    "PHP/Module_11/Class_02/file_get_content().md",
+    "PHP/Module_11/Class_02/Session Store.md",
+    "PHP/Module_11/Class_02/Main Topic.md",
+    "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
+    "PHP/Module_11/Resourse/PDF Resourse/SESSION.md",
+    "PHP/Module_11/Resourse/PDF Resourse/What is json_encode.md",
     "PHP/Module_11/Resourse/PDF Resourse",
     "postman.txt",
     "part9.php",
@@ -163,12 +166,8 @@
     "part4 1.php",
     "part3.php",
     "part2.php",
-    "PHP/Module_11/Class_02/Main Topic.md",
     "PHP/Module_11/Resoure.md",
-    "PHP/Module_11/Class_02/Cookies Store.md",
-    "PHP/Module_11/Class_02/Session Store.md",
     "PHP/Module_11/Class_02/$_SERVER REQUEST_METHOD.md",
-    "PHP/Module_11/Class_02/file_get_content().md",
     "PHP/Module_11/Class_02/Associative array to json object encode.md",
     "PHP/Module_11/Class_02/Associative array to json array encode.md",
     "CodeMama/Module_11/Substring Occurrences Counting.md",

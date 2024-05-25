@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Module_11/Class_02/Cookies Store.md",
+                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Module_11/Class_02/Cookies Store.md",
+                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/Module_11/Class_02/Cookies Store.md",
+                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Module_11/Class_02/Cookies Store.md"
+                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "56b51e179927b8e8",
   "lastOpenFiles": [
-    "PHP/Module_11/Resourse/Code file of class/Code.md",
+    "PHP/Module_11/Resourse/PDF Resourse/Type of Error.md",
+    "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
+    "PHP/Module_11/Resourse/PDF Resourse/Working With JSON.md",
     "PHP/Module_11/Class_02/Cookies Store.md",
+    "PHP/Module_11/Resourse/Code file of class/Code.md",
     "PHP/Module_11/Class_02/file_get_content().md",
     "PHP/Module_11/Class_02/Session Store.md",
     "PHP/Module_11/Class_02/Main Topic.md",
     "PHP/Module_11/Resourse/PDF Resourse/COOKIES.md",
     "PHP/Module_11/Resourse/PDF Resourse/SESSION.md",
-    "PHP/Module_11/Resourse/PDF Resourse/What is json_encode.md",
     "PHP/Module_11/Resourse/PDF Resourse",
     "postman.txt",
     "part9.php",
@@ -182,8 +184,6 @@
     "PHP/Module_06/Class_01/1. Regular PHP MySQL Setup.md",
     "CodeMama/module_09/CodeMama Problem Solving..md",
     "CodeMama/module_08/CodeMama Problem Solving.md",
-    "CodeMama.md",
-    "Ostat Class/Module/Module-04 Object Oriented/Class 02/5. Inheritance/LDRHT.md",
     "Ostat Class/Module/Untitled/Untitled.canvas",
     "Untitled.canvas",
     "JavaScript/Untitled.canvas"

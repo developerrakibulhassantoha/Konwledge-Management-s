@@ -6,7 +6,12 @@ $AsocArray=[ "name"=>"Jhon", "age"=>30];
 $JSON=json_encode($AsocArray); 
 echo $JSON; 
 // Lets Create JSON Array From PHP Multidimensional Asoc Array 
-$AsocArray=[ [ "name"=>"Jhon", "age"=>30], [ "name"=>"Mark", "age"=>33] ]; $JSON=json_encode($AsocArray); 
+$AsocArray=[ [ "name"=>"Jhon", 
+			  "age"=>30
+			  ], 
+			  [ "name"=>"Mark", 
+			  "age"=>33] ];
+			   $JSON=json_encode($AsocArray); 
 echo $JSON;
 ```
 # Question: What is file_get_contents()? 

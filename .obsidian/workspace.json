@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
-                "mode": "source",
+                "file": "Ostad Quiz Question and Answers/Module-11.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ans",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
+                "file": "Ostad Quiz Question and Answers/Module-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
+                "file": "Ostad Quiz Question and Answers/Module-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md"
+                "file": "Ostad Quiz Question and Answers/Module-11.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "56b51e179927b8e8",
   "lastOpenFiles": [
-    "PHP/Module_11/Resourse/PDF Resourse/Type of Error.md",
     "PHP/Module_11/Resourse/PDF Resourse/Error Handle.md",
+    "Ostad Quiz Question and Answers/Module-11.md",
+    "Ostad Quiz Question and Answers/Untitled",
+    "PHP/Module_11/Resourse/PDF Resourse/Type of Error.md",
     "PHP/Module_11/Resourse/PDF Resourse/Working With JSON.md",
     "PHP/Module_11/Class_02/Cookies Store.md",
     "PHP/Module_11/Resourse/Code file of class/Code.md",
@@ -167,7 +169,6 @@
     "part5.php",
     "part4 1.php",
     "part3.php",
-    "part2.php",
     "PHP/Module_11/Resoure.md",
     "PHP/Module_11/Class_02/$_SERVER REQUEST_METHOD.md",
     "PHP/Module_11/Class_02/Associative array to json object encode.md",
@@ -183,7 +184,6 @@
     "PHP/Module_06/Class_01/2. Write your First PHP Code & Run.md",
     "PHP/Module_06/Class_01/1. Regular PHP MySQL Setup.md",
     "CodeMama/module_09/CodeMama Problem Solving..md",
-    "CodeMama/module_08/CodeMama Problem Solving.md",
     "Ostat Class/Module/Untitled/Untitled.canvas",
     "Untitled.canvas",
     "JavaScript/Untitled.canvas"

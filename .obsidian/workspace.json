@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/Topis.md",
+                "file": "CodeMama/Module_13/Sorting String By Length.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/Topis.md",
+                "file": "CodeMama/Module_13/Sorting String By Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/Topis.md",
+                "file": "CodeMama/Module_13/Sorting String By Length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/Topis.md"
+                "file": "CodeMama/Module_13/Sorting String By Length.md"
               }
             }
           }
@@ -148,27 +148,31 @@
   },
   "active": "327ad1f158362975",
   "lastOpenFiles": [
-    "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/INNER JOIN.md",
-    "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/Topis.md",
-    "SQL(DATABASE)(m_12-14)/module-12/Class-01",
+    "CodeMama/Module_13/Lexicographically First.md",
+    "CodeMama/Module_13/Sorting String By Length.md",
+    "CodeMama/Module_13/Lexicographically At The End.md",
+    "PHP(6-11)/Module_06/Class_01/1. Regular PHP MySQL Setup.md",
+    "CodeMama/Module_13",
+    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/Topis.md",
+    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/INNER JOIN.md",
+    "SQL(DATABASE)(M_12)/module-12/Class-01",
     "CodeMama/Module_12/Rotated Sorted Array.md",
     "CodeMama/Module_12/Minimum In Rotated Sorted Array.md",
     "CodeMama/Module_12/Calculate Square Root.md",
-    "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/RIGHT JOIN.md",
+    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/RIGHT JOIN.md",
     "CodeMama/Module_12",
-    "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/LEFT JOIN.md",
-    "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql/Aggregator Functions.md",
+    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/LEFT JOIN.md",
+    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/Aggregator Functions.md",
     "Problem Solution/XAMM PROBlEM/not start appci/sql.md",
-    "SQL(DATABASE)(m_12-14)/module-12/Class-02/sql",
-    "SQL(DATABASE)(m_12-14)/module-12/Class-02",
-    "SQL(DATABASE)(m_12-14)/module-12",
-    "SQL(DATABASE)(m_12-14)",
+    "SQL(DATABASE)(M_12)/module-12/Class-02/sql",
+    "SQL(DATABASE)(M_12)/module-12/Class-02",
+    "SQL(DATABASE)(M_12)/module-12",
+    "SQL(DATABASE)(M_12)",
     "Ostad Quiz Question and Answers/Module-11.md",
     "Problem Solution/XAMM PROBlEM/not start appci",
     "Problem Solution/XAMM PROBlEM",
     "Problem Solution",
     "PHP(6-11)/Module_11/Resourse/PDF Resourse/Error Handle.md",
-    "Ostad Quiz Question and Answers/Untitled",
     "PHP(6-11)/Module_11/Resourse/PDF Resourse/Type of Error.md",
     "PHP(6-11)/Module_11/Resourse/PDF Resourse/Working With JSON.md",
     "PHP(6-11)/Module_11/Class_02/Cookies Store.md",
@@ -180,10 +184,6 @@
     "PHP(6-11)/Module_11/Resourse/PDF Resourse/SESSION.md",
     "PHP/Module_11/Resoure.md",
     "PHP(6-11)/Module_11/Class_02/$_SERVER REQUEST_METHOD.md",
-    "PHP(6-11)/Module_11/Class_02/Associative array to json object encode.md",
-    "PHP(6-11)/Module_11/Class_02/Associative array to json array encode.md",
-    "CodeMama/Module_11/Substring Occurrences Counting.md",
-    "CodeMama/Module_11/String Rotation.md",
     "Ostat Class/Module/Untitled/Untitled.canvas",
     "Untitled.canvas",
     "JavaScript/Untitled.canvas"

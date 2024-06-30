@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b49aba1498cd30ee",
+        "id": "ea09d4ff747349d5",
         "type": "tabs",
         "children": [
           {
-            "id": "327ad1f158362975",
+            "id": "cc84691c629bd95b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeMama/Module_13/Sorting String By Length.md",
-                "mode": "source",
+                "file": "SASS/SASS Topic/3. Sass Nesting.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a41ff86174d2a036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ostad Quiz Question and Answers/মডিউল 16.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeMama/Module_13/Sorting String By Length.md",
+                "file": "Ostad Quiz Question and Answers/মডিউল 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeMama/Module_13/Sorting String By Length.md",
+                "file": "Ostad Quiz Question and Answers/মডিউল 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeMama/Module_13/Sorting String By Length.md"
+                "file": "Ostad Quiz Question and Answers/মডিউল 16.md"
               }
             }
           }
@@ -146,10 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "327ad1f158362975",
+  "active": "a41ff86174d2a036",
   "lastOpenFiles": [
-    "CodeMama/Module_13/Lexicographically First.md",
+    "Assignment/Assignment_03/Assignment/Live test.md",
+    "Ostad Quiz Question and Answers/মডিউল 16.md",
+    "Ostad Quiz Question and Answers/Untitled",
+    "Assignment/Assignment_03/Assignment/ProfileController.md",
+    "Assignment/Assignment_02/Assignment/OOP.md",
+    "Assignment/Assignment_02/Assignment/String.md",
+    "Assignment/Assignment_03/Live_test",
+    "Assignment/Assignment_03/Assignment",
+    "Assignment/Assignment_03",
+    "SASS/SASS Topic/2. Sass Variables.md",
+    "SASS/SASS Topic/style.css.md",
+    "SASS/SASS Topic/style.scss.md",
+    "SASS/SASS Topic/3. Sass Nesting.md",
+    "SASS/SASS Topic/4. Sass @import and Partials, style.scss.md",
+    "CodeMama/Module_16/Odd or Even.md",
+    "CodeMama/Module_16/Positivity.md",
+    "CodeMama/Module_16",
+    "CodeMama/Module_15_Exam",
     "CodeMama/Module_13/Sorting String By Length.md",
+    "CodeMama/Module_14/Postfix Expression Evaluation.md",
+    "CodeMama/Module_14/Bracket Matching.md",
+    "CodeMama/Module_14/Prefix Expression Evaluation.md",
+    "CodeMama/Module_14/Untitled",
+    "CodeMama/Module_14",
+    "CodeMama/Module_13/Lexicographically First.md",
     "CodeMama/Module_13/Lexicographically At The End.md",
     "PHP(6-11)/Module_06/Class_01/1. Regular PHP MySQL Setup.md",
     "CodeMama/Module_13",
@@ -160,30 +196,7 @@
     "CodeMama/Module_12/Minimum In Rotated Sorted Array.md",
     "CodeMama/Module_12/Calculate Square Root.md",
     "SQL(DATABASE)(M_12)/module-12/Class-02/sql/RIGHT JOIN.md",
-    "CodeMama/Module_12",
     "SQL(DATABASE)(M_12)/module-12/Class-02/sql/LEFT JOIN.md",
-    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/Aggregator Functions.md",
-    "Problem Solution/XAMM PROBlEM/not start appci/sql.md",
-    "SQL(DATABASE)(M_12)/module-12/Class-02/sql",
-    "SQL(DATABASE)(M_12)/module-12/Class-02",
-    "SQL(DATABASE)(M_12)/module-12",
-    "SQL(DATABASE)(M_12)",
-    "Ostad Quiz Question and Answers/Module-11.md",
-    "Problem Solution/XAMM PROBlEM/not start appci",
-    "Problem Solution/XAMM PROBlEM",
-    "Problem Solution",
-    "PHP(6-11)/Module_11/Resourse/PDF Resourse/Error Handle.md",
-    "PHP(6-11)/Module_11/Resourse/PDF Resourse/Type of Error.md",
-    "PHP(6-11)/Module_11/Resourse/PDF Resourse/Working With JSON.md",
-    "PHP(6-11)/Module_11/Class_02/Cookies Store.md",
-    "PHP/Module_11/Resourse/Code file of class/Code.md",
-    "PHP(6-11)/Module_11/Class_02/file_get_content().md",
-    "PHP(6-11)/Module_11/Class_02/Session Store.md",
-    "PHP(6-11)/Module_11/Class_02/Main Topic.md",
-    "PHP(6-11)/Module_11/Resourse/PDF Resourse/COOKIES.md",
-    "PHP(6-11)/Module_11/Resourse/PDF Resourse/SESSION.md",
-    "PHP/Module_11/Resoure.md",
-    "PHP(6-11)/Module_11/Class_02/$_SERVER REQUEST_METHOD.md",
     "Ostat Class/Module/Untitled/Untitled.canvas",
     "Untitled.canvas",
     "JavaScript/Untitled.canvas"

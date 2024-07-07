@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ostad Quiz Question and Answers/মডিউল 16.md",
-                "mode": "preview",
+                "file": "Ostad Quiz Question and Answers/মডিউল 17.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ostad Quiz Question and Answers/মডিউল 16.md",
+                "file": "Ostad Quiz Question and Answers/মডিউল 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ostad Quiz Question and Answers/মডিউল 16.md",
+                "file": "Ostad Quiz Question and Answers/মডিউল 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ostad Quiz Question and Answers/মডিউল 16.md"
+                "file": "Ostad Quiz Question and Answers/মডিউল 17.md"
               }
             }
           }
@@ -161,9 +161,14 @@
   },
   "active": "a41ff86174d2a036",
   "lastOpenFiles": [
-    "Assignment/Assignment_03/Assignment/Live test.md",
     "Ostad Quiz Question and Answers/মডিউল 16.md",
+    "Ostad Quiz Question and Answers/মডিউল 17.md",
+    "CodeMama/Module_17/Find Number From String.md",
     "Ostad Quiz Question and Answers/Untitled",
+    "CodeMama/Module_17/Sum of Natural Numbers.md",
+    "Problem Solution/XAMM PROBlEM/not start appci/sql.md",
+    "CodeMama/Module_17",
+    "Assignment/Assignment_03/Assignment/Live test.md",
     "Assignment/Assignment_03/Assignment/ProfileController.md",
     "Assignment/Assignment_02/Assignment/OOP.md",
     "Assignment/Assignment_02/Assignment/String.md",
@@ -191,12 +196,7 @@
     "CodeMama/Module_13",
     "SQL(DATABASE)(M_12)/module-12/Class-02/sql/Topis.md",
     "SQL(DATABASE)(M_12)/module-12/Class-02/sql/INNER JOIN.md",
-    "SQL(DATABASE)(M_12)/module-12/Class-01",
     "CodeMama/Module_12/Rotated Sorted Array.md",
-    "CodeMama/Module_12/Minimum In Rotated Sorted Array.md",
-    "CodeMama/Module_12/Calculate Square Root.md",
-    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/RIGHT JOIN.md",
-    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/LEFT JOIN.md",
     "Ostat Class/Module/Untitled/Untitled.canvas",
     "Untitled.canvas",
     "JavaScript/Untitled.canvas"

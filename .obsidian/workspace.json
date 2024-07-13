@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "74060e08333dc89b",
+    "id": "907c680eba649b5d",
     "type": "split",
     "children": [
       {
-        "id": "ea09d4ff747349d5",
+        "id": "11210fcadc0e50f3",
         "type": "tabs",
         "children": [
           {
-            "id": "cc84691c629bd95b",
+            "id": "141f67240c2cac20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SASS/SASS Topic/3. Sass Nesting.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a41ff86174d2a036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-commerce-project-11/instruction file/Road Map.md",
+                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5fc6b6d7636731e4",
+    "id": "c3c2b2ec8acf382f",
     "type": "split",
     "children": [
       {
-        "id": "d7e916c527a233af",
+        "id": "446d55feadbed82e",
         "type": "tabs",
         "children": [
           {
-            "id": "296d36abb3de87c9",
+            "id": "b7c4ca96300c9221",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "282be7a113e5ac5f",
+            "id": "0b9626745bea33bb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "241aba18b4a83fb5",
+            "id": "27811e444abe91f6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 300
   },
   "right": {
-    "id": "fae4bb50ad9283b6",
+    "id": "76d3a95dab886b71",
     "type": "split",
     "children": [
       {
-        "id": "4adef834b1e478cc",
+        "id": "9073d4ea58e4aaca",
         "type": "tabs",
         "children": [
           {
-            "id": "66592ea358d84445",
+            "id": "ae67678906ac95ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-commerce-project-11/instruction file/Road Map.md",
+                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "8fe324b9f5d7b954",
+            "id": "093a344236f70805",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-commerce-project-11/instruction file/Road Map.md",
+                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f01c111a7df7f6e0",
+            "id": "47a609306a3b044d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "d3d2fb64ca348685",
+            "id": "45a57bf1e04f9c6c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-commerce-project-11/instruction file/Road Map.md"
+                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md"
               }
             }
           }
@@ -159,46 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41ff86174d2a036",
-  "lastOpenFiles": [
-    "Ostad Quiz Question and Answers/মডিউল 17.md",
-    "E-commerce-project-11/instruction file/Road Map.md",
-    "E-commerce-project-11/instruction file",
-    "E-commerce-project-11",
-    "Ostad Quiz Question and Answers/মডিউল 16.md",
-    "CodeMama/Module_17/Find Number From String.md",
-    "Ostad Quiz Question and Answers/Untitled",
-    "CodeMama/Module_17/Sum of Natural Numbers.md",
-    "Problem Solution/XAMM PROBlEM/not start appci/sql.md",
-    "CodeMama/Module_17",
-    "Assignment/Assignment_03/Assignment/Live test.md",
-    "Assignment/Assignment_03/Assignment/ProfileController.md",
-    "Assignment/Assignment_02/Assignment/OOP.md",
-    "Assignment/Assignment_02/Assignment/String.md",
-    "Assignment/Assignment_03/Live_test",
-    "Assignment/Assignment_03/Assignment",
-    "Assignment/Assignment_03",
-    "SASS/SASS Topic/2. Sass Variables.md",
-    "SASS/SASS Topic/style.css.md",
-    "SASS/SASS Topic/style.scss.md",
-    "SASS/SASS Topic/3. Sass Nesting.md",
-    "SASS/SASS Topic/4. Sass @import and Partials, style.scss.md",
-    "CodeMama/Module_16/Odd or Even.md",
-    "CodeMama/Module_16/Positivity.md",
-    "CodeMama/Module_16",
-    "CodeMama/Module_15_Exam",
-    "CodeMama/Module_13/Sorting String By Length.md",
-    "CodeMama/Module_14/Postfix Expression Evaluation.md",
-    "CodeMama/Module_14/Bracket Matching.md",
-    "CodeMama/Module_14/Prefix Expression Evaluation.md",
-    "CodeMama/Module_14/Untitled",
-    "CodeMama/Module_13/Lexicographically First.md",
-    "CodeMama/Module_13/Lexicographically At The End.md",
-    "PHP(6-11)/Module_06/Class_01/1. Regular PHP MySQL Setup.md",
-    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/Topis.md",
-    "SQL(DATABASE)(M_12)/module-12/Class-02/sql/INNER JOIN.md",
-    "Ostat Class/Module/Untitled/Untitled.canvas",
-    "Untitled.canvas",
-    "JavaScript/Untitled.canvas"
-  ]
+  "active": "141f67240c2cac20",
+  "lastOpenFiles": []
 }

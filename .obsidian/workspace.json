@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11210fcadc0e50f3",
+        "id": "bf4b92d538c88e29",
         "type": "tabs",
         "children": [
           {
-            "id": "141f67240c2cac20",
+            "id": "0bf1e878b36fcf59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md",
+                "file": "Module_Class/Module_16/projectpv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md",
+                "file": "Module_Class/Module_16/projectpv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md",
+                "file": "Module_Class/Module_16/projectpv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL(DATABASE)(M_12)/module-12/Class-01/sql.md"
+                "file": "Module_Class/Module_16/projectpv.md"
               }
             }
           }
@@ -146,6 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141f67240c2cac20",
-  "lastOpenFiles": []
+  "active": "b7c4ca96300c9221",
+  "lastOpenFiles": [
+    "Module_Class/Module_19/Class-01.md",
+    "Module_Class/Module_19/Class-02 E-ORM.md",
+    "Module_Class/Module_16/projectpv.md",
+    "wordpress/Ecommerce/E-commerce.md",
+    "Problem Solution/Codding Problem/Problem.md",
+    "Module_Class/Module_16",
+    "Problem Solution/Codding Problem",
+    "E-commerce-project-11/instruction file/Road Map.md",
+    "wordpress/Ecommerce",
+    "wordpress",
+    "E-commerce-project-11/instruction file/E-Commerce-Project.md",
+    "Module_Class/Module_19",
+    "CodeMama/Module_12/Rotated Sorted Array.md",
+    "CodeMama/Module_13/Sorting String By Length.md",
+    "CodeMama/Module_13/Lexicographically First.md",
+    "CodeMama/Module_13/Lexicographically At The End.md",
+    "CodeMama/Module_11/Substring Occurrences Counting.md",
+    "CodeMama/Module_11/String Rotation.md",
+    "CodeMama/Module_14/Prefix Expression Evaluation.md",
+    "CodeMama/Module_14/Postfix Expression Evaluation.md",
+    "CodeMama/Module_12/Minimum In Rotated Sorted Array.md",
+    "CodeMama/Module_12/Calculate Square Root.md",
+    "CodeMama/module_09/CodeMama Problem Solving..md",
+    "CodeMama/module_08/CodeMama Problem Solving.md",
+    "CodeMama/Module_18/Substitution Cipher.md",
+    "CodeMama/Module_18/Remove Special Character.md",
+    "CodeMama/Module_17/Sum of Natural Numbers.md",
+    "CodeMama/Module_17/Find Number From String.md",
+    "CodeMama/Module_16/Positivity.md",
+    "CodeMama/Module_16/Odd or Even.md",
+    "CodeMama/Module_14/Bracket Matching.md",
+    "Laravel_Practice_Project/personal-protfolio/storage/logs/laravel.log",
+    "Laravel_Practice_Project/personal-protfolio/database/seeders/EducationSeeder.php",
+    "Laravel_Practice_Project/personal-protfolio/database/migrations/2024_07_27_202922_create_education_table.php",
+    "Laravel_Practice_Project/personal-protfolio/app/Models/Education.php",
+    "Laravel_Practice_Project/personal-protfolio/database/seeders/ExperienceTaskSeeder.php"
+  ]
 }
